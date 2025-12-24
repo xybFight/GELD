@@ -1,4 +1,4 @@
-<h1 align="center">From Global Assessment to Local Selction: <br/> Efficiently Solving Traveling Saleman Problems of All Sizes</h1>
+<h1 align="center">GELD: A unified neural model for efficiently solving traveling salesman problems across different scales</h1>
 
 A novel TSP solver named GELD (Global-view Encoder and Local-view Decoder) based on the broad global assessment and refined local selection framework
 
@@ -62,4 +62,18 @@ Python test_inTSPLib.py
 
 ## Acknowledgements
 GELD's code implementation is based on the code of [LEHD](https://github.com/CIAM-Group/NCO_code/tree/main/single_objective/LEHD). Thanks to them.
+
+
+### Citation
+
+If you find our paper and code useful, please cite our paper:
+```tex
+@ARTICLE{Xiao2025,
+  author={Yubin Xiao and Di Wang and Rui Cao and Xuan Wu and Boyang Li and You Zhou},
+  journal={Pattern Recognition}, 
+  title={GELD: A unified neural model for efficiently solving traveling salesman problems across different scales}, 
+  year={2026},
+  volume={173},
+  pages={1-15},
+}
 
